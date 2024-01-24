@@ -1,51 +1,40 @@
-# [Country Info Show Website]()
+# Country Info Show
 
-Welcome to the Country Info Show website! This readme file will provide you with essential information about our website, its functionalities, and how it utilizes the REST API to create an informative and visually appealing display for each country.
+Welcome to the Country Info Show website repository! This web application allows users to input a country name and retrieve information about that country using an external API. It's a handy tool for accessing country details quickly and efficiently.
 
-## Table of Contents
+## Project Overview
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [How it Works](#how-it-works)
-4. [API Integration](#api-integration)
-5. [Live Page](#live-page)
-6. [Contact Us](#contact-us)
+- **Live Link:** [Country Info Show](https://nakib00.github.io/country-info-show/)
+- **Home Page:**
+  ![Home Page](https://github.com/Nakib00/country-info-show/blob/main/screencapture-nakib00-github-io-country-info-show-2024-01-25-00_34_40.png?raw=true)
 
-## 1. Introduction
+## Features
 
-The Country Info Show website aims to offer users detailed information about countries from all over the world. It utilizes a REST API to fetch data such as the country's name, flag, population, currency, language, and other relevant data to create informative and visually appealing country profiles.
+- **Dynamic Information Retrieval:** Enter a country name and instantly fetch details using an external API.
+- **User-Friendly Interface:** Simple and intuitive design for a seamless user experience.
+- **Responsive Design:** Accessible on various devices and screen sizes.
 
-## 2. Features
+## How to Use
 
-Our website provides the following features:
+1. Visit the live [Country Info Show](https://nakib00.github.io/country-info-show/) page.
+2. Enter the name of the country you want information about.
+3. Click the "Show Info" button to retrieve and display details.
+4. Explore the information presented, including population, capital, currency, and more.
 
-- **Country Search:** Users can search for a specific country to access detailed information about that country's demographics, currency, and language.
-- **Country List:** Browse through a list of all countries available in the database and select a country of interest to view its profile.
-- **Flag Display:** Each country profile includes its flag, allowing users to visually recognize and identify the country easily.
-- **Informative Display:** The website presents a well-organized display of information, making it easy for users to find essential details about each country.
+## API Used
 
-## 3. How it Works
+This project uses the [REST Countries API](https://restcountries.com/) to gather information about countries. Check the API documentation for more details on available endpoints.
 
-To use the Country Info Show website, follow these steps:
+## Contribution
 
-1. Open the website through the provided live page link (see [Live Page](#live-page)).
-2. Use the search bar to find a specific country, or browse through the list of countries available.
-3. Click on a country to view its detailed profile, including the country's name, flag, population, currency, language, and other relevant data.
+Contributions are welcome! If you have suggestions, bug reports, or want to add new features, please feel free to open an issue or submit a pull request.
 
-## 4. API Integration
+## License
 
-The Country Info Show website integrates with a REST API to retrieve up-to-date information about countries. The API provides endpoints for accessing country data based on search queries and country codes.
+This project is licensed under the [MIT License](LICENSE), allowing you to use and modify the code for your purposes.
 
-The API endpoints used for data retrieval are documented and follow the API's specifications to ensure accurate and reliable data display.
+## Contact
 
-## 5. Live Page
+For any inquiries or further assistance, please contact the project maintainer at [nakib@example.com](mailto:nakib@example.com).
 
-To access the live version of the Country Info Show website, please visit the following link: [Country Info Show Live Page](https://nakib00.github.io/country-info-show/).
-
-## 6. Contact Us
-
-If you have any questions, suggestions, or encounter any issues while using the website, please don't hesitate to [contact us](https://nakib00.github.io/country-info-show/contact.html). We value your feedback and are dedicated to improving your experience on Country Info Show.
-
-## Conclusion
-
-Thank you for visiting the Country Info Show website. We hope you find our country profiles informative and visually appealing. Explore the diverse world of countries and learn about their unique attributes through our user-friendly platform.
+Explore and learn more about countries with Country Info Show!
