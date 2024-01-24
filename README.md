@@ -35,6 +35,6 @@ This project is licensed under the [MIT License](LICENSE), allowing you to use a
 
 ## Contact
 
-For any inquiries or further assistance, please contact the project maintainer at [nakib@example.com](mailto:nakib@example.com).
+For any inquiries or further assistance, please contact the project maintainer at [nakibulislam54@gmail.com](mailto:nakibulislam54@gmail.com).
 
 Explore and learn more about countries with Country Info Show!
